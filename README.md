@@ -1,8 +1,12 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working as UX Designer, interested in Web Development and specializing in clean UI and joyful UX
-- 🌱 I’m currently learning more about React, Next.JS and Svelte for the frontend & TypeScript and Golang for the backend
-- 👯 I’m looking to collaborate on making web applications, whether as frontend or backend developer
+- 💼 UX Designer
+- 🔧 Freelance Frontend Web Developer
+- 🔭 Interested in Web Development. Specializing in clean UI and joyful UX
+- 🌱 Currently learning more about:
+  - Frontend: React/NextJS, VueJS/Nuxt, Svelte
+  - Backend: TypeScript, Golang
+- 👯 Looking to collaborate on making landing pages and web applications (frontend or backend)
 - 📫 Have questions or ideas? Don't hesitate to [reach out!](mailto:alifanandityoarifin@gmail.com)
 
 ## 💻 Tech Stack
