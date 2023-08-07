@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 💼 UX Designer
+- 💼 UX Designer, IT Implementer
 - 🔧 Freelance Frontend Web Developer
 - 🔭 Interested in Web Development. Specializing in clean UI and joyful UX
 - 🌱 Currently learning more about:
