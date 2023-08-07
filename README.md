@@ -5,7 +5,7 @@
 - 🔭 Interested in Web Development. Specializing in clean UI and joyful UX
 - 🌱 Currently learning more about:
   - Frontend: React/NextJS, VueJS/Nuxt, Svelte
-  - Backend: TypeScript, Golang
+  - Backend: Node.js , Java (relearn), Golang
 - 👯 Looking to collaborate on making landing pages and web applications (frontend or backend)
 - 📫 Have questions or ideas? Don't hesitate to [reach out!](mailto:alifanandityoarifin@gmail.com)
 
